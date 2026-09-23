@@ -899,7 +899,7 @@ function App() {
             <a className="btn btn-ghost" href="#">
               Read the manifesto
             </a>
-            <span className="contact-addr">georgia@mantisbiotech.com</span>
+            <span className="contact-addr">georgia@mantisbiotech.systems</span>
           </div>
         </section>
       </main>
